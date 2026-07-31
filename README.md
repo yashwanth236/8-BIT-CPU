@@ -115,7 +115,7 @@ This was my **first Verilog project**, and it helped me understand the complete 
 
 ## Demo
 
-🎥 **YouTube Demo:** *(###############################)*
+🎥 **YouTube Demo:** https://youtu.be/WcvOhpKcZ1g
 
 ---
 
